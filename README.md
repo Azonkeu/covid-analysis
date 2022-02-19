@@ -1,7 +1,7 @@
-# Spacex
-## Travelers' Hub with React and Redux
+# COVID 19 ANALYSIS
+## COVID 19 Analysis with React and Redux
 
-This website displays some North-American countries and covid 19 statatitis. When users click on a country they can see more details about the country.
+This website displays some North-American countries and COVID 19 statatitis. When users click on a country they can see more details about the country.
 
 
 ### Getting Started
